@@ -20,9 +20,23 @@ while(i<=5):
     i+=1'''
 
 # reverse print 
-i=5
+'''i=5
 
 while(i>=1):
     print(i)
-    i-=1
+    i-=1'''
+
+'''list =[1,2,3]
+
+for el in list :
+  print(el)
+else:
+  print("End")'''
+
+list = [1,2,3,5]
+x=3
+for el in list :
+    if el ==x:
+        print("find ho gya",el)
+       
     
